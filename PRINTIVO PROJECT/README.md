@@ -9,3 +9,9 @@ Printivo is an online store that provides quality prints across Africa. The comp
 
 ## Test Objectives
 This test plan has been designed to verify the website's functional aspects. The test team is responsible for ensuring that the website is fully accessible and that all features function as intended. Key areas to be tested include user actions such as home page loading, navigating features, sign-up, login, password changes, adding items to the cart, payment processing, and address management. Additionally, the team will assess compatibility and usability test to ensure the site meets user requirements and delivers a seamless experience.
+
+## Testcase
+
+[Testcase](https://docs.google.com/spreadsheets/d/1smwo5pxT6JRSRapvtHI1DOsCKIZJCGYSLYyMsMDFv84/edit?usp=sharing)
+
+![Testcase](https://github.com/Yenvyken/PRNTIVO-PROJECT/blob/main/PRINTIVO%20PROJECT/IMAGES/TESTCASE%20SCREENSHOT%201.png)
