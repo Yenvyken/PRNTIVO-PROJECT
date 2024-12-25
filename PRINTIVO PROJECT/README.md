@@ -18,4 +18,4 @@ This test plan has been designed to verify the website's functional aspects. The
 
 [Testcase](https://docs.google.com/spreadsheets/d/1smwo5pxT6JRSRapvtHI1DOsCKIZJCGYSLYyMsMDFv84/edit?usp=sharing)
 
-![Testcase](https://github.com/Yenvyken/PRNTIVO-PROJECT/blob/main/PRINTIVO%20PROJECT/IMAGES/TESTCASE%20SCREENSHOT%201.png)
+![Testcase](https://github.com/Yenvyken/PRNTIVO-PROJECT/blob/main/PRINTIVO%20PROJECT/IMAGES/printivo%20testcase%20document%20screenshot.png)
