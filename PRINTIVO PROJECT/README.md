@@ -7,7 +7,7 @@ I am proficient in tools like Selenium, JIRA, Postman API, and Java, I excel in 
 I am building my expertise through real-world projects and continuous learning, intending to secure a senior-level QA role within a few years. My focus is ensuring software reliability, functionality, and user satisfaction while contributing to continuous improvement in testing processes.
 
 
-## Background of the Business
+## Background of the Project
 Printivo is an online store that provides quality prints across Africa. The company was born out of a love for paper and ink. Printivo aims to help African businesses print marketing and business materials easily. Their goal is to set new standards for prints through quality, quick delivery, and remarkable designs. 
 
 
