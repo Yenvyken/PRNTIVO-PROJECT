@@ -9,7 +9,7 @@ This test plan has been designed to verify the website's functional aspects. The
 
 [Printivo Testcase Document](https://docs.google.com/spreadsheets/d/1smwo5pxT6JRSRapvtHI1DOsCKIZJCGYSLYyMsMDFv84/edit?usp=sharing)
 
-![Printivo Testcase Document](https://github.com/Yenvyken/PRNTIVO-PROJECT/blob/main/PRINTIVO%20PROJECT/IMAGES/printivo%20testcase%20document%20screenshot.png)
+![Printivo Testcase Document](https://github.com/Yenvyken/PRNTIVO-PROJECT/blob/main/PRINTIVO%20PROJECT/IMAGES/TESTCASE%20DOCUMENT%20SCREENSHOT.png)
 
 
 [Printivo Testplan Document](https://docs.google.com/document/d/1ef6CmZsOIBGt8o-pBSkLEdpwaCk-iCrvVAe7g6bxlyg/edit?tab=t.0#heading=h.64zf33u8zeqy)
