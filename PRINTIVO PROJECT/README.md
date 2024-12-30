@@ -19,6 +19,5 @@ This test plan has been designed to verify the website's functional aspects. The
 
 [Printivo Bug Report Document](https://docs.google.com/spreadsheets/d/1FF_7z4GE3uyYo_1ase3Gg0DRLQkYjmWSkAnAEsvFUG4/edit?gid=0#gid=0)
 
-![Printivo Testcase Document](https://github.com/Yenvyken/PRNTIVO-PROJECT/blob/main/PRINTIVO%20PROJECT/IMAGES/BUG%20REPORT%20SCREENSHOT.png)
 
 
