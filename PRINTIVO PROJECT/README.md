@@ -3,7 +3,8 @@ Printivo is an online store that provides quality prints across Africa. The comp
 
 
 ## Test Objectives
-This test plan has been designed to verify the website's functional aspects. The test team is responsible for ensuring that the website is fully accessible and that all features function as intended. Key areas to be tested include user actions such as home page loading, navigating features, sign-up, login, password changes, adding items to the cart, payment processing, and address management. Additionally, the team will assess compatibility and usability test to ensure the site meets user requirements and delivers a seamless experience.
+
+This test plan has been designed to verify the website's functional aspects. The QA Tester is responsible for Validating that login functionality works seamlessly across all supported devices and browsers. Ensure a smooth user experience during checkout workflows and verify compatibility across multiple platforms to ensure accessibility for all users.
 
 ## Printivo project work
 
